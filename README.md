@@ -17,7 +17,7 @@ Main Endpoints-
 7. /transaction/summary/:period - for getting  summary and analytics( GET Method)
 
 
-This application use local mongodb url - mongodb://localhost/financial_tracker, so mongodb would require to run this application
+This application is using local mongodb url - mongodb://localhost/financial_tracker, so mongodb would require to run this application on local machine.
 
 
 
